@@ -1,2 +1,5 @@
-# How_to_download_files_from_a_Github_repository_in_zip_file_format
-Instructions to download a zip file from a Github repository.
+<ins>How to download files from a Github repository in zip file format.</ins>
+1. Open repository.
+2. Click green button written code.
+3. At the bottom of dropdown menu, click download zip.
+4. Download begins.
